@@ -35,15 +35,7 @@ import 'package:smartlogger/smartlogger.dart';
 
 Example 
 
-```dart
-    // Print Error Messages
-    ![image description](error.png)
-
-
-
-
-
-```
+![image description](fluttterDesktop.png)
 
 
 ## License

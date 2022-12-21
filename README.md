@@ -1,6 +1,6 @@
-# Circular Box
+# Smart Logger Print in Debug Mode Only
 
-Circular Container/Box
+Smart Logger
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ With Flutter:
 
 ```yaml
 
-$ flutter pub add circular_container
+$ flutter pub add smartlogger
 
 ```
 
@@ -16,8 +16,8 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```yaml
 
-  dependencies: 
-  circular_container: ^0.0.1
+  dependencies:
+    smartlogger: ^1.0.1+1
 
 ```
 
@@ -29,26 +29,19 @@ First import the class in your class
 
 ```dart
 
-import 'package:circularbox/circularbox.dart';
+import 'package:smartlogger/smartlogger.dart';
 
 ```
 
 Example 
 
 ```dart
+    // Print Error Messages
+    (error.png)
 
-    // This widget is the root of your application.
-    @override 
-    Widget build(BuildContext context) {
-      return CircularBox(
-        child: Container(
-          width:100,
-          height:100,
-        ),
-        radius: 12,
-      );
-    }
-    
+
+
+
 ```
 
 

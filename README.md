@@ -2,6 +2,13 @@
 
 Smart Logger
 
+## Platform Support
+
+| Android | iOS | MacOS | Web | Linux | Windows |
+| :-----: | :-: | :---: | :-: | :---: | :-----: |
+|   ✔️    | ✔️  |  ✔️   | ✔️  |  ✔️   |   ✔️    |
+
+
 ## Getting Started
 
 With Flutter:
@@ -16,16 +23,16 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```yaml
 
-  dependencies:
-    smartlogger: ^1.0.1+1
+dependencies:
+  smartlogger: ^1.0.5+1
 
 ```
 
 Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
 
-## Example 
+## Example
 
-First import the class in your class 
+First import the class in your class
 
 ```dart
 
@@ -33,9 +40,9 @@ import 'package:smartlogger/smartlogger.dart';
 
 ```
 
-Example 
+Example
 
-![image description](error.png)
+![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/error.png)
 
 
 ## License

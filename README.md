@@ -24,11 +24,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 ```yaml
 
 dependencies:
-<<<<<<< HEAD
   smartlogger: ^1.1.1+1
-=======
-  smartlogger: ^1.0.5+1
->>>>>>> 9f6170ba24cc849d993ca5a98d6293fda608e080
 
 ```
 

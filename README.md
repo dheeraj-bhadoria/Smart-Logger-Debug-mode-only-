@@ -42,7 +42,9 @@ import 'package:smartlogger/smartlogger.dart';
 
 Example
 
-![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/error.png)
+![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/logcode.png)
+
+![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/loglog.png)
 
 
 ## License

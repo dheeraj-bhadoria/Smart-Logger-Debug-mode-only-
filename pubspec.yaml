@@ -1,7 +1,7 @@
-name: Smart Logger
+name: smartlogger
 description: Smart Logger - Print logs in debug mode only
-homepage: https://github.com/dheeraj-bhadoria/Circular-Container-Flutter-
-repository: https://github.com/dheeraj-bhadoria/Circular-Container-Flutter-
+homepage: https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-
+repository: https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -15,7 +15,7 @@ repository: https://github.com/dheeraj-bhadoria/Circular-Container-Flutter-
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.2+1
+version: 1.1.1+1
 
 environment:
   sdk: '>=2.18.4 <3.0.0'

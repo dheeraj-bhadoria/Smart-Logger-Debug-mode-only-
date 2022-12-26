@@ -1,3 +1,3 @@
-## [1.0.0+1] - 12 Dec 2022
+## [1.0.6+1] - 22 Dec 2022
 
-* Put your widget in circular container with radius
+* Smart logger print log in debug mode only
